@@ -1,0 +1,1 @@
+!function(){"use strict";tinymce.PluginManager.add("prueba",function(t,n){t.ui.registry.addButton("prueba",{text:"prueba button",onAction:function(){t.setContent("<p>content added from prueba</p>")}})})}();
